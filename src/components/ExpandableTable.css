@@ -1,0 +1,5 @@
+/* ExpandableTable.css */
+/* Custom CSS to remove padding on right for child rows */
+.MuiTableRow-root.Mui-expanded .MuiTableCell-root {
+  padding-right: 0;
+}
